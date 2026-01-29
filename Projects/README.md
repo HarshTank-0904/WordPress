@@ -6,22 +6,6 @@ It represents a full-scale WordPress website setup for development and deploymen
 
 ---
 
-## 📂 Project Structure
-
-full-project/
-│
-├── wp-admin/
-├── wp-content/
-│   ├── themes/
-│   ├── plugins/
-│   └── uploads/
-├── wp-includes/
-├── database/
-├── config/
-└── README.md
-
----
-
 ## 🚀 Features
 
 - Complete WordPress setup
