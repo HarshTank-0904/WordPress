@@ -5,20 +5,6 @@ Each plugin follows WordPress coding standards and is built for learning, testin
 
 ---
 
-## 📂 Folder Structure
-
-plugin/
-│
-├── my-plugin-1/
-├── my-plugin-2/
-├── my-plugin-3/
-├── my-plugin-4/
-└── README.md
-
-Each sub-folder represents a separate WordPress plugin.
-
----
-
 ## 🚀 Features
 
 - Custom WordPress plugins
